@@ -1,5 +1,5 @@
 # CodingChallenge
----
+
 ## Pattern Printing
 --
 ### Pattern1
