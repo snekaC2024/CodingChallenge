@@ -1,19 +1,19 @@
 # CodingChallenge
 ---
 ## Pattern Printing
--
+--
 ### Pattern1
 
 ---
-## Pattern2
+### Pattern2
 
 ---
-## Pattern3
+### Pattern3
 
 ---
-## Pattern4
+### Pattern4
 
 ---
-## Pattern5
+### Pattern5
 
 ---
