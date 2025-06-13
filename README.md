@@ -3,7 +3,7 @@
 ## Pattern Printing
 --
 ### Pattern1
-
+(images/image.png)
 ---
 ### Pattern2
 
