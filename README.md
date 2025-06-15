@@ -1,7 +1,8 @@
 # CodingChallenge
 
 ## Pattern Printing
---
+
+
 ### Pattern1
 ![Project Screenshot](images/p1.png)
 ---
