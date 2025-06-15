@@ -2,8 +2,7 @@
 
 ## Pattern Printing
 --
-### Pattern1
-(images/p1.png)
+![Project Screenshot](images/p1.png)
 ---
 ### Pattern2
 (images/p2.png)
