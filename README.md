@@ -18,3 +18,19 @@
 ### Pattern5
 ![Project Screenshot](images/p5.png)
 ---
+### Pattern5
+![Project Screenshot](images/p6.png)
+---
+### Pattern5
+![Project Screenshot](images/p7.png)
+---
+### Pattern5
+![Project Screenshot](images/p8.png)
+---
+### Pattern5
+![Project Screenshot](images/p9.png)
+---
+### Pattern5
+![Project Screenshot](images/p10.png)
+---
+
