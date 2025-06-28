@@ -33,4 +33,19 @@
 ### Pattern10
 ![Project Screenshot](images/p10.png)
 ---
+### Pattern11
+![Project Screenshot](images/p11.png)
+---
+### Pattern12
+![Project Screenshot](images/p12.png)
+---
+### Pattern13
+![Project Screenshot](images/p13.png)
+---
+### Pattern14
+![Project Screenshot](images/p14.png)
+---
+### Pattern15
+![Project Screenshot](images/p15.png)
+---
 
