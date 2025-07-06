@@ -63,6 +63,22 @@
 ### Pattern20
 ![Project Screenshot](images/p20.png)
 ---
-
-
+### Pattern21
+![Project Screenshot](images/p21.png)
+---
+### Pattern22
+![Project Screenshot](images/p22.png)
+---
+### Pattern23
+![Project Screenshot](images/p23.png)
+---
+### Pattern24
+![Project Screenshot](images/p24.png)
+---
+### Pattern25
+![Project Screenshot](images/p25.png)
+---
+### Pattern26
+![Project Screenshot](images/p26.png)
+---
 
