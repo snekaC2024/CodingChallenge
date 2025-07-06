@@ -48,4 +48,21 @@
 ### Pattern15
 ![Project Screenshot](images/p15.png)
 ---
+### Pattern16
+![Project Screenshot](images/p16.png)
+---
+### Pattern17
+![Project Screenshot](images/p17.png)
+---
+### Pattern18
+![Project Screenshot](images/p18.png)
+---
+### Pattern19
+![Project Screenshot](images/p19.png)
+---
+### Pattern20
+![Project Screenshot](images/p20.png)
+---
+
+
 
